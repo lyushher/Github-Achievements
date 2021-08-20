@@ -14,6 +14,7 @@ Badge | Title | Description
 ![GitHub Sponsor Achievement Badge](https://github.com/lyushher/Github-Achievements/blob/main/images/badge-sponsors-small.png) |GitHub Sponsor | If you sponsored an open source contributor through GitHub Sponsors you'll get a GitHub Sponsor badge on your profile. Clicking the badge takes you to the Sponsoring tab of your profile.
 ![Mars 2020 Helicopter Contributor Achievement Badge](https://github.com/lyushher/Github-Achievements/blob/main/images/badge-mars-2020-small.png) |Mars 2020 Helicopter Contributor | If you authored any commit(s) present in the commit history for the relevant tag of an open source library used in the Mars 2020 Helicopter Mission, you'll get a Mars 2020 Helicopter Contributor badge on your profile. Hovering over the badge shows you several of the repositories you contributed to that were used in the mission.
 
+
 ## Official List
 
 There is an official list available in the GitHub Docs at  
