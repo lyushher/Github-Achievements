@@ -6,8 +6,6 @@ Following the launch of the first Mars Helicopter, [Ingenuity](https://en.wikipe
 
 > We are also using this opportunity to introduce a new Achievements section to the GitHub profile. Right now, Achievements include the Mars 2020 Helicopter Mission badge, the [Arctic Code Vault](https://archiveprogram.github.com/arctic-vault/) badge, and a badge for sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors).
 
-This repository attempts to list them all.
-
 ## Achievements
 
 Badge | Title | Description
